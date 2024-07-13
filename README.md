@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @harsha123e aka Harsha
-- 👀 I’m interested in everything but more interested in listening to audiobooks, relaxing and funny stuff
-- 🌱 I’m currently learning C++, Data structures and algorithms, DBMS, Web Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach ...
+- 👀 I’m interested in everything but more interested in solving problems one at a time
+- 🌱 I’m currently learning Python, Django, Machine learning...
+- 📫 How to reach nsriharsha3@gmail.com
 
 <!---
 harsha123e/harsha123e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
