@@ -2,11 +2,7 @@
 
 📊 Interested in **Business Analysis, SQL, and data-driven decision making**
 
-🛠️ Experience supporting the **Intuit E-Store checkout module**, analyzing transaction workflows and platform performance
-
 📈 Currently building projects using **SQL, Google BigQuery, and data visualization tools**
-
-🌱 Expanding my skills in **Business Analysis, data analytics, and problem-solving through real-world datasets**
 
 📫 Reach me at: **nsriharsha333@gmail.com**
 
