@@ -8,10 +8,6 @@
 - Azure Data Factory (ADF)
 - API Testing (Postman), JSON Handling  
 
-🚀 Currently building:
-- SQL Data Reconciliation Framework  
-- Azure Data Factory ETL Pipeline  
-
 📫 Reach me at: nsriharsha333@gmail.com  
 
 <!---
