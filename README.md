@@ -1,6 +1,6 @@
 👋 Hi, I'm Harsha  
 
-💻 SQL Developer / Data Engineer with 2+ years of experience  
+💻 SQL Developer / Data Engineer with 2 years of experience  
 
 🔍 Skilled in:
 - Advanced SQL (Joins, CTEs, Window Functions)
