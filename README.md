@@ -1,3 +1,26 @@
+👋 Hi, I'm Harsha
+
+💻 Data Professional with 2 years of fintech experience supporting transaction and payment systems for Intuit and Western Union.
+
+🔍 Areas of Experience
+
+• SQL (Joins, CTEs, Window Functions, Subqueries, Query Optimization)
+
+• Data Validation & Data Reconciliation
+
+• Root Cause Investigation
+
+• Transaction Data Analysis
+
+• MySQL & Google BigQuery
+
+• Python (Pandas)
+
+• Splunk & Postman
+
+📫 Reach me at: [nsriharsha333@gmail.com](mailto:nsriharsha333@gmail.com)
+
+<!--
 👋 Hi, I'm Harsha  
 
 💻 Data Analyst / SQL Developer with 2 years of experience  
@@ -8,7 +31,7 @@
 - Azure Data Factory (ADF)
 - API Testing (Postman), JSON Handling  
 
-📫 Reach me at: nsriharsha333@gmail.com  
+📫 Reach me at: nsriharsha333@gmail.com  -->
 
 <!---
 # 👋 Hi, I'm Harsha
